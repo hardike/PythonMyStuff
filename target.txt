@@ -1,0 +1,3 @@
+This is my first line
+To be written to test.txt
+Please write it carefully
